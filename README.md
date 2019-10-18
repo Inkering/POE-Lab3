@@ -1,5 +1,5 @@
-# Arduino-Starter
-Boilerplate for an arduino project. I don't particularly like the Arduino-ide,
+# Line-Following Robot
+I don't particularly like the Arduino-ide,
 so I went searching for alternative options. Platform-io is the powerhouse here,
 it allows for uploading,building, and library management of programs for
 arduinos(and other boards!). I personally use emacs quite a bit, so this repo
